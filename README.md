@@ -4,16 +4,16 @@ A very strange and fancy eye ;D
 
 ##Examples
 
-A huge base example [http://codepen.io/eclectic_boy/pen/xGmBWN](http://codepen.io/eclectic_boy/pen/xGmBWN)
+A huge base example [http://codepen.io/eclectic_boy/pen/bdZybj](http://codepen.io/eclectic_boy/pen/bdZybj)
 
-A more crowded example [http://codepen.io/eclectic_boy/pen/Jdwzvg](http://codepen.io/eclectic_boy/pen/Jdwzvg)
+A very crowded example [http://codepen.io/eclectic_boy/pen/KpELzY](http://codepen.io/eclectic_boy/pen/KpELzY)
 
 
 ##Requirements
 
  - [jQuery](https://jquery.com/);
- - [jQuery UI](https://jqueryui.com/).
- - [obeyCursor](https://github.com/eclectic-boy/obeyCursor).
+ - [jQuery UI](https://jqueryui.com/);
+ - [obeyCursor](https://github.com/eclectic-boy/obeyCursor);
  - [cursorSpy](https://github.com/eclectic-boy/cursorSpy).
 
 #Usage
@@ -38,7 +38,7 @@ $(function() {
 
 An optional options object `opts` can be passed to the widget. Here follow the available options:
 
-###`path`
+###`basePath`
 The path of the `img` folder within the repo. Mind the trailing slash.
 
 
